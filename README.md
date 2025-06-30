@@ -38,7 +38,6 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/waste-management-app.git
 cd waste-management-app
 Create and activate a virtual environment:
 
@@ -73,7 +72,7 @@ Open your browser and go to:
 cpp
 Copy
 Edit
-http://127.0.0.1:5000/
+
 Upload an image of waste via the form and submit.
 
 View the predicted waste category, recyclability, degradability, and confidence score.
